@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbiolaOyegun
-- 👀 I’m interested in Developing Web Apps
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested Cyber Security
+- 🌱 Cyber Security Essential
 - 💞️ I’m looking to collaborate on more oppurtunities 
 - 📫 How to reach me oyegunabiola@gmail.com
 
