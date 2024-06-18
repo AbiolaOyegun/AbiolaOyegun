@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abiola
-- 👀 A CyberSecurity Analyst
-- 💞️ I’m looking to collaborate on more oppurtunities. 
+- 👀  Senior CyberSecurity Analyst 
 
 <!---
 AbiolaOyegun/AbiolaOyegun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
